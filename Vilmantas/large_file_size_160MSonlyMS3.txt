@@ -1,0 +1,228 @@
+Normal: Nanomate:Starting WellPosition C8 with method Frank_Neg_300min.nsm
+
+Normal: Looking for one of the following Ions:  837.46420 873.44087 819.45363 883.46967 1675.93567
+
+Normal: Waiting for Sample from C8
+
+Normal: Resumed NP-016308
+
+Normal: Molecular ion peak 837.46420 found with intensity above 2.00e+005
+
+Normal: Node MS1 - Completed
+Created FT (CID HCD) nodes for precursor 837.46([M - H]-)
+Created FT (CID HCD) nodes for precursor 873.44([M + Cl]-)
+Created FT (CID HCD) nodes for precursor 1675.93([2M - H]-)
+Created FT (CID HCD) nodes for precursor 883.47([M + FA - H]-)
+Done 1
+
+
+Normal: Node MS2 CID 837.46([M - H]-)  - Completed
+Looking for precursor candidates
+Checking 93 peaks
+93 Peaks have abundance larger than 10000
+12 Peaks have relative abundance larger than 5 relative to Highest peak (837.4621;1.2E+007;#12 )
+12 Peaks have Signal to Noise ration above 10
+2 Unique peaks
+Ignoring  precursor candidate 837.4621. Too close to parent precursor 837.4628
+Selected Precursor : 567.40454@CID-35
+Created FT (CID HCD) nodes for precursor 567.40
+Done 9
+
+
+Normal: Node MS2 HCD 883.47([M + FA - H]-)  - Completed
+Looking for precursor candidates
+Checking 952 peaks
+59 Peaks have abundance larger than 10000
+5 Peaks have relative abundance larger than 5 relative to Highest peak (837.4619;1.4E+006;#42 )
+5 Peaks have Signal to Noise ration above 10
+2 Unique peaks
+Selected Precursor : 837.46192@HCD-20
+Selected Precursor : 101.02412@HCD-40
+This node cannot have children
+Done 39
+
+
+Normal: Node MS2 CID 883.47([M + FA - H]-)  - Completed
+Looking for precursor candidates
+Checking 48 peaks
+14 Peaks have abundance larger than 10000
+14 Peaks have relative abundance larger than 5 relative to Highest peak (837.4623;1.5E+006;#116 )
+14 Peaks have Signal to Noise ration above 10
+2 Unique peaks
+Selected Precursor : 837.46232@CID-40
+Ignoring  precursor candidate 883.4688. Too close to parent precursor 883.4681
+Created FT (CID HCD) nodes for precursor 837.46
+Done 107
+
+
+Normal: Node MS2 HCD 1675.93([2M - H]-)  - Completed
+Looking for precursor candidates
+Checking 2343 peaks
+19 Peaks have abundance larger than 10000
+19 Peaks have relative abundance larger than 5 relative to Highest peak (837.4634;1.1E+005;#140 )
+19 Peaks have Signal to Noise ration above 10
+3 Unique peaks
+Selected Precursor : 837.46342@HCD-20
+Ignoring  precursor candidate 1675.9340. Too close to parent precursor 1675.9339
+Precursor Candidate Peak 173.50231 failed formula filter check
+This node cannot have children
+Done 137
+
+
+Normal: Node MS2 CID 1675.93([2M - H]-)  - Completed
+Looking for precursor candidates
+Checking 31 peaks
+12 Peaks have abundance larger than 10000
+12 Peaks have relative abundance larger than 5 relative to Highest peak (1675.9327;1.3E+005;#1049 )
+12 Peaks have Signal to Noise ration above 10
+2 Unique peaks
+Ignoring  precursor candidate 1675.9327. Too close to parent precursor 1675.9339
+Selected Precursor : 837.46244@CID-40
+Created FT (CID HCD) nodes for precursor 837.46
+Done 1046
+
+
+Normal: Node MS2 HCD 873.44([M + Cl]-)  - Completed
+Looking for precursor candidates
+Checking 783 peaks
+60 Peaks have abundance larger than 10000
+7 Peaks have relative abundance larger than 5 relative to Highest peak (837.4618;1.4E+006;#1079 )
+7 Peaks have Signal to Noise ration above 10
+4 Unique peaks
+Selected Precursor : 837.46184@HCD-20
+Ignoring  precursor candidate 873.4385. Too close to parent precursor 873.4394
+Selected Precursor : 101.02413@HCD-40
+Selected Precursor : 113.02412@HCD-40
+This node cannot have children
+Done 1076
+
+
+Normal: Node MS2 CID 873.44([M + Cl]-)  - Completed
+Looking for precursor candidates
+Checking 36 peaks
+13 Peaks have abundance larger than 10000
+13 Peaks have relative abundance larger than 5 relative to Highest peak (837.4623;1.2E+006;#1145 )
+13 Peaks have Signal to Noise ration above 10
+2 Unique peaks
+Selected Precursor : 837.46227@CID-30
+Ignoring  precursor candidate 873.4398. Too close to parent precursor 873.4394
+Created FT (CID HCD) nodes for precursor 837.46
+Done 1139
+
+
+Normal: Node MS2 HCD 837.46([M - H]-)  - Completed
+Looking for precursor candidates
+Checking 714 peaks
+262 Peaks have abundance larger than 10000
+8 Peaks have relative abundance larger than 5 relative to Highest peak (837.4621;1.5E+007;#1169 )
+8 Peaks have Signal to Noise ration above 10
+5 Unique peaks
+Ignoring  precursor candidate 837.4621. Too close to parent precursor 837.4628
+Selected Precursor : 113.02408@HCD-40
+Selected Precursor : 101.02414@HCD-40
+Selected Precursor : 85.02925@HCD-50
+Selected Precursor : 99.00845@HCD-50
+This node cannot have children
+Done 1169
+
+
+Normal: Node MS3 HCD 837.46([M - H]-) -> 567.40 - Completed
+Looking for precursor candidates
+Checking 362 peaks
+23 Peaks have abundance larger than 10000
+11 Peaks have relative abundance larger than 5 relative to Highest peak (567.4042;3.8E+005;#1283 )
+11 Peaks have Signal to Noise ration above 10
+3 Unique peaks
+Ignoring  precursor candidate 567.4042. Too close to parent precursor 567.4045
+Selected Precursor : 497.36227@HCD-40
+Selected Precursor : 85.02923@HCD-40
+This node cannot have children
+Done 1283
+
+
+Normal: Node MS3 CID 837.46([M - H]-) -> 567.40 - Completed
+Looking for precursor candidates
+Checking 259 peaks
+131 Peaks have abundance larger than 10000
+47 Peaks have relative abundance larger than 5 relative to Highest peak (567.4055;2.8E+006;#1346 )
+47 Peaks have Signal to Noise ration above 10
+6 Unique peaks
+Ignoring  precursor candidate 567.4055. Too close to parent precursor 567.4045
+Selected Precursor : 497.36351@CID-60
+Selected Precursor : 507.38417@CID-50
+Selected Precursor : 499.37929@CID-25
+Precursor Candidate Peak 173.50243 failed formula filter check
+Selected Precursor : 455.35299@CID-75
+Limit reached for number of precursors on this node (3)
+Created FT (CID HCD) nodes for precursor 497.36
+Created FT (CID HCD) nodes for precursor 507.38
+Created FT (CID HCD) nodes for precursor 499.38
+Done 1346
+
+
+Normal: Node MS3 HCD 883.47([M + FA - H]-) -> 837.46 - Completed
+Looking for precursor candidates
+Checking 694 peaks
+78 Peaks have abundance larger than 10000
+7 Peaks have relative abundance larger than 5 relative to Highest peak (837.4623;1.3E+006;#1376 )
+7 Peaks have Signal to Noise ration above 10
+4 Unique peaks
+Ignoring  precursor candidate 837.4623. Too close to parent precursor 837.4623
+Selected Precursor : 113.02417@HCD-40
+Selected Precursor : 101.02417@HCD-40
+Selected Precursor : 85.02930@HCD-50
+This node cannot have children
+Done 1376
+
+
+Warning: Error taking scan
+FTMS - c NSI ms3 873.4394@CID30 837.4623@HCD20 [83.00-840.00]
+
+Warning: Error taking scan
+FTMS - c NSI ms3 873.4394@CID30 837.4623@HCD20 [83.00-840.00]
+
+Warning: Error taking scan
+FTMS - c NSI ms3 873.4394@CID30 837.4623@HCD20 [83.00-840.00]
+
+Error: Error during 'acquisition stage' Error taking scan
+System.Exception: Error taking scan ---> System.ServiceModel.CommunicationException: The server did not provide a meaningful reply; this might be caused by a contract mismatch, a premature session shutdown or an internal server error.
+
+Server stack trace: 
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at Thermo.TNG.Framework.WCF.ITNGComm.SendCommand(CommandData command)
+   at System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   at System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [1]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at Thermo.TNG.Framework.WCF.ITNGCommClient.SendCommand(CommandData command)
+   at Thermo.TNG.Client.API.Helper.SendCommand(CommandData cmd)
+   at Thermo.TNG.Client.API.Control.Scans.Scans.SetScan(ScanEvent scanEvent)
+   at HighChem.Instrument.MassSpectrometer.Fusion.FusionMassSpectrometerApiWrapper.TakeSingleScan(ScanDefinition definition, CancellationToken token) in C:\mf8\Sources\Assemblies\Desktop\Instrument\Instrument.MassSpectrometer.Fusion\FusionMassSpectrometerApiWrapper.cs:line 129
+   at HighChem.Instrument.MassSpectrometer.MSInstrumentController.<TakeScan>d__63.MoveNext() in C:\mf8\Sources\Assemblies\Desktop\Instrument\Instrument.MassSpectrometer\MSInstrumentController.cs:line 877
+   --- End of inner exception stack trace ---
+   at HighChem.Instrument.MassSpectrometer.MSInstrumentController.<TakeScan>d__63.MoveNext() in C:\mf8\Sources\Assemblies\Desktop\Instrument\Instrument.MassSpectrometer\MSInstrumentController.cs:line 913
+
+Error: Cannot make this call because the connection to the service is not alive. See IInstrumentAccessContainer.ServiceConnected;
+Thermo.TNG.Client.API.APIException: Cannot make this call because the connection to the service is not alive. See IInstrumentAccessContainer.ServiceConnected;
+   at Thermo.TNG.Client.API.Helper.ThrowIfNotOnlineAccess()
+   at Thermo.TNG.Client.API.Helper.SendCommand(CommandData cmd)
+   at Thermo.TNG.Client.API.Control.Acquisition.Acquisition.CancelAcquisition()
+   at HighChem.Instrument.MassSpectrometer.Fusion.FusionMassSpectrometerApiWrapper.StopRawFileAcquistion() in C:\mf8\Sources\Assemblies\Desktop\Instrument\Instrument.MassSpectrometer.Fusion\FusionMassSpectrometerApiWrapper.cs:line 301
+   at HighChem.Instrument.MassSpectrometer.MSInstrumentController.<StopRawDataAcquisition>d__26.MoveNext() in C:\mf8\Sources\Assemblies\Desktop\Instrument\Instrument.MassSpectrometer\MSInstrumentController.cs:line 230
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at HighChem.MassFrontier.VisualPlugin.FusionRobot.Plugin.ViewModels.ExperimentViewModel.<RunPolarity>d__115.MoveNext() in C:\mf8\Sources\Applications\Desktop\MassFrontier80\FusionRobot\ViewModels\ExperimentViewModel.cs:line 810
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at HighChem.MassFrontier.VisualPlugin.FusionRobot.Plugin.ViewModels.ExperimentViewModel.<RunPolarity>d__115.MoveNext() in C:\mf8\Sources\Applications\Desktop\MassFrontier80\FusionRobot\ViewModels\ExperimentViewModel.cs:line 847
+

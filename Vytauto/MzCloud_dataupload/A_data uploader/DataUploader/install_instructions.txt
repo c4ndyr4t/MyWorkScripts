@@ -1,0 +1,26 @@
+1. Download and install miniconda
+https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe
+
+2. Launch "anaconda promp" from start menu
+
+3. Create <mame_of_choice> environment with specific version of python by running:
+conda create --name <name_of_choice> python=3.7.13
+
+4. activate environment 
+conda activate <name_of_choice>
+
+5. Change dir 'cd' into software directory
+[ cd C:/...../..... ] 
+
+5. run requirement installer:
+pip install -r requirements.txt
+
+
+6. register extentions within jupyter
+jupyter contrib nbextension install
+jupyter nbextension enable --py --sys-prefix widgetsnbextension
+
+All done. 
+
+launch jupyter notebook from start menu, navigate to the app directory and run the notebook
+ENJOY!!!

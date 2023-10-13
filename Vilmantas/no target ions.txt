@@ -1,0 +1,10 @@
+Normal: Nanomate:Starting WellPosition D5 with method Frank_pos_1000min.nsm
+
+Normal: Looking for one of the following Ions:  1124.62379 1146.60573 1106.61322 1162.57967 1141.65034
+
+Normal: Waiting for Sample from D5
+
+Normal: Resumed NP-006850
+
+Warning: None of the target ions are present in the sample with intensity above 2.00e+005
+
